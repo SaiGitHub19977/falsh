@@ -8,3 +8,5 @@ branch recipies
 allu
 rasam 
 rice
+
+dal rice
